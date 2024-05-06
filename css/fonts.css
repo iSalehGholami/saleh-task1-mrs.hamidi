@@ -1,0 +1,11 @@
+/* @font-face {
+    font-family: 'IranSansX';
+    src: url('../assets/fonts/IRANSansX-Regular.woff') format('woff'),
+        url('../assets/fonts/IRANSansX-Bold.woff') format('woff');
+} */
+
+@font-face {
+    font-family: 'IranSansX';
+    src: url('../assets/fonts/IRANSansXFaNum-Regular.woff') format('woff'),
+        url('../assets/fonts/IRANSansXFaNum-Bold.woff') format('woff');
+}
